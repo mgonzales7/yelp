@@ -16,22 +16,22 @@ The following **required** functionality is completed:
       
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
       
-      1.The Formatting can be improved 
-      2. How to make detail page implemented
+1.The Formatting can be improved 
+2. How to make detail page implemented
       
-      ## Video Walkthrough 
+## Video Walkthrough 
       
-      Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:
       
-      <img src='http://mkgo.co/yelp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://mkgo.co/yelp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
       
-      GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
       
-      ## Notes
+## Notes
       
-      Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app.
       
-      ## License
+## License
       
           Copyright [2016] [Michael Gonzales]
 	  
